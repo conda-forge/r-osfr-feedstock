@@ -1,11 +1,11 @@
-About r-osfr
-============
+About r-osfr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-osfr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://docs.ropensci.org/osfr, https://github.com/ropensci/osfr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-osfr-feedstock/blob/main/LICENSE.txt)
 
 Summary: An interface for interacting with 'OSF' (<https://osf.io>). 'osfr' enables you to access open research materials and data, or create and manage your own private or public projects.
 
