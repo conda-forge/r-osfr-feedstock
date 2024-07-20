@@ -1,6 +1,5 @@
 {% set version = "0.2.9" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-osfr
@@ -13,8 +12,7 @@ source:
   sha256: ac78ff916bbcf0eec13bbb23d7555537c49a6b54763fed229f4bdc48a179733d
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
